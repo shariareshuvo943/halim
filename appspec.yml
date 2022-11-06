@@ -18,7 +18,7 @@ files:
       destination: /var/www/html
 hooks:
     BeforeInstall:
-     - location: scripts/installapache.sh
+     - location: scripts/installapache1.sh
        runas: root
      - location: scripts/startapache.sh
        runas: root
