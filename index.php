@@ -23,10 +23,7 @@
    </head>
    <body>
 	   <section class="header-top">
-         <h1>wow</h1>
-         <h1>wow</h1>
-         <h1>wow</h1>
-         <h2>yeeed</h2>
+         <h3>we have done the deployment with pipeline in AWS</h3>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
