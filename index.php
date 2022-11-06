@@ -26,6 +26,7 @@
          <h1>wow</h1>
          <h1>wow</h1>
          <h1>wow</h1>
+         <h2>yeeed</h2>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
